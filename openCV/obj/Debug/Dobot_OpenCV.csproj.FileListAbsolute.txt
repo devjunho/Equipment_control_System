@@ -1,0 +1,108 @@
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\obj\Debug\Dobot_OpenCV.csproj.AssemblyReference.cache
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\obj\Debug\MainWindow.g.cs
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\obj\Debug\ViewModel\First.g.cs
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\obj\Debug\ViewModel\Main.g.cs
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\obj\Debug\ViewModel\Manager.g.cs
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\obj\Debug\ViewModel\Manager_Password.g.cs
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\obj\Debug\App.g.cs
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\obj\Debug\Dobot_OpenCV_Content.g.cs
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\obj\Debug\Dobot_OpenCV_MarkupCompile.cache
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\obj\Debug\Dobot_OpenCV_MarkupCompile.lref
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\bin\Debug\dll\x86\opencv_videoio_ffmpeg4100.dll
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\bin\Debug\dll\x64\opencv_videoio_ffmpeg4100_64.dll
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\bin\Debug\x86\leptonica-1.82.0.dll
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\bin\Debug\x86\tesseract50.dll
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\bin\Debug\x64\leptonica-1.82.0.dll
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\bin\Debug\x64\tesseract50.dll
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\bin\Debug\Dobot_OpenCV.exe.config
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\bin\Debug\Dobot_OpenCV.exe
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\bin\Debug\Dobot_OpenCV.pdb
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\bin\Debug\Newtonsoft.Json.dll
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\bin\Debug\OpenCvSharp.dll
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\bin\Debug\OpenCvSharp.WpfExtensions.dll
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\bin\Debug\System.Buffers.dll
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\bin\Debug\System.Drawing.Common.dll
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\bin\Debug\System.Memory.dll
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\bin\Debug\System.ValueTuple.dll
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\bin\Debug\Tesseract.dll
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\bin\Debug\Newtonsoft.Json.xml
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\bin\Debug\OpenCvSharp.xml
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\bin\Debug\OpenCvSharp.WpfExtensions.xml
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\bin\Debug\System.Buffers.xml
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\bin\Debug\System.Drawing.Common.xml
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\bin\Debug\System.Memory.xml
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\bin\Debug\System.ValueTuple.xml
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\obj\Debug\MainWindow.baml
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\obj\Debug\ViewModel\First.baml
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\obj\Debug\ViewModel\Main.baml
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\obj\Debug\ViewModel\Manager.baml
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\obj\Debug\ViewModel\Manager_Password.baml
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\obj\Debug\Dobot_OpenCV.g.resources
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\obj\Debug\Dobot_OpenCV.Properties.Resources.resources
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\obj\Debug\Dobot_OpenCV.csproj.GenerateResource.cache
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\obj\Debug\Dobot_OpenCV.csproj.CoreCompileInputs.cache
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\obj\Debug\Dobot_Op.5BAA52AF.Up2Date
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\obj\Debug\Dobot_OpenCV.exe
+C:\Users\uy122\OneDrive\바탕 화면\다운로드\새 폴더\4team\obj\Debug\Dobot_OpenCV.pdb
+E:\4team\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+E:\4team\bin\Debug\dll\x86\opencv_videoio_ffmpeg4100.dll
+E:\4team\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+E:\4team\bin\Debug\dll\x64\opencv_videoio_ffmpeg4100_64.dll
+E:\4team\bin\Debug\x86\leptonica-1.82.0.dll
+E:\4team\bin\Debug\x86\tesseract50.dll
+E:\4team\bin\Debug\x64\leptonica-1.82.0.dll
+E:\4team\bin\Debug\x64\tesseract50.dll
+E:\4team\bin\Debug\Dobot_OpenCV.exe.config
+E:\4team\bin\Debug\Dobot_OpenCV.exe
+E:\4team\bin\Debug\Dobot_OpenCV.pdb
+E:\4team\bin\Debug\Newtonsoft.Json.dll
+E:\4team\bin\Debug\OpenCvSharp.dll
+E:\4team\bin\Debug\OpenCvSharp.Extensions.dll
+E:\4team\bin\Debug\OpenCvSharp.WpfExtensions.dll
+E:\4team\bin\Debug\System.Buffers.dll
+E:\4team\bin\Debug\System.Drawing.Common.dll
+E:\4team\bin\Debug\System.Memory.dll
+E:\4team\bin\Debug\System.Numerics.Vectors.dll
+E:\4team\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\4team\bin\Debug\System.ValueTuple.dll
+E:\4team\bin\Debug\Tesseract.dll
+E:\4team\bin\Debug\Newtonsoft.Json.xml
+E:\4team\bin\Debug\OpenCvSharp.xml
+E:\4team\bin\Debug\OpenCvSharp.Extensions.xml
+E:\4team\bin\Debug\OpenCvSharp.WpfExtensions.xml
+E:\4team\bin\Debug\System.Buffers.xml
+E:\4team\bin\Debug\System.Drawing.Common.xml
+E:\4team\bin\Debug\System.Memory.xml
+E:\4team\bin\Debug\System.Numerics.Vectors.xml
+E:\4team\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\4team\bin\Debug\System.ValueTuple.xml
+E:\4team\obj\Debug\Dobot_OpenCV.csproj.AssemblyReference.cache
+E:\4team\obj\Debug\MainWindow.g.cs
+E:\4team\obj\Debug\ViewModel\First.g.cs
+E:\4team\obj\Debug\ViewModel\Main.g.cs
+E:\4team\obj\Debug\ViewModel\Manager.g.cs
+E:\4team\obj\Debug\ViewModel\Manager_Password.g.cs
+E:\4team\obj\Debug\App.g.cs
+E:\4team\obj\Debug\Dobot_OpenCV_Content.g.cs
+E:\4team\obj\Debug\Dobot_OpenCV_MarkupCompile.cache
+E:\4team\obj\Debug\Dobot_OpenCV_MarkupCompile.lref
+E:\4team\obj\Debug\MainWindow.baml
+E:\4team\obj\Debug\ViewModel\First.baml
+E:\4team\obj\Debug\ViewModel\Main.baml
+E:\4team\obj\Debug\ViewModel\Manager.baml
+E:\4team\obj\Debug\ViewModel\Manager_Password.baml
+E:\4team\obj\Debug\Dobot_OpenCV.g.resources
+E:\4team\obj\Debug\Dobot_OpenCV.Properties.Resources.resources
+E:\4team\obj\Debug\Dobot_OpenCV.csproj.GenerateResource.cache
+E:\4team\obj\Debug\Dobot_OpenCV.csproj.CoreCompileInputs.cache
+E:\4team\obj\Debug\Dobot_Op.5BAA52AF.Up2Date
+E:\4team\obj\Debug\Dobot_OpenCV.exe
+E:\4team\obj\Debug\Dobot_OpenCV.pdb

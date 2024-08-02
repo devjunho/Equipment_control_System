@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\4\uD300\uAC1C\uBC1C\uC644\uB8CC\uBCF4\uACE0\uC11C\\openCV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A495D0F-1EA9-44F9-B70F-D3BFB045F5EB}|Dobot_OpenCV.csproj|D:\\Project\\4\uD300\uAC1C\uBC1C\uC644\uB8CC\uBCF4\uACE0\uC11C\\openCV\\model\\connected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A495D0F-1EA9-44F9-B70F-D3BFB045F5EB}|Dobot_OpenCV.csproj|solutionrelative:model\\connected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A495D0F-1EA9-44F9-B70F-D3BFB045F5EB}|Dobot_OpenCV.csproj|d:\\project\\4\uD300\uAC1C\uBC1C\uC644\uB8CC\uBCF4\uACE0\uC11C\\opencv\\model\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A495D0F-1EA9-44F9-B70F-D3BFB045F5EB}|Dobot_OpenCV.csproj|solutionrelative:model\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A495D0F-1EA9-44F9-B70F-D3BFB045F5EB}|Dobot_OpenCV.csproj|D:\\Project\\4\uD300\uAC1C\uBC1C\uC644\uB8CC\uBCF4\uACE0\uC11C\\openCV\\viewmodel\\manager_password.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A495D0F-1EA9-44F9-B70F-D3BFB045F5EB}|Dobot_OpenCV.csproj|solutionrelative:viewmodel\\manager_password.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A495D0F-1EA9-44F9-B70F-D3BFB045F5EB}|Dobot_OpenCV.csproj|D:\\Project\\4\uD300\uAC1C\uBC1C\uC644\uB8CC\uBCF4\uACE0\uC11C\\openCV\\viewmodel\\manager_password.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3A495D0F-1EA9-44F9-B70F-D3BFB045F5EB}|Dobot_OpenCV.csproj|solutionrelative:viewmodel\\manager_password.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A495D0F-1EA9-44F9-B70F-D3BFB045F5EB}|Dobot_OpenCV.csproj|D:\\Project\\4\uD300\uAC1C\uBC1C\uC644\uB8CC\uBCF4\uACE0\uC11C\\openCV\\viewmodel\\manager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A495D0F-1EA9-44F9-B70F-D3BFB045F5EB}|Dobot_OpenCV.csproj|solutionrelative:viewmodel\\manager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A495D0F-1EA9-44F9-B70F-D3BFB045F5EB}|Dobot_OpenCV.csproj|D:\\Project\\4\uD300\uAC1C\uBC1C\uC644\uB8CC\uBCF4\uACE0\uC11C\\openCV\\viewmodel\\manager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3A495D0F-1EA9-44F9-B70F-D3BFB045F5EB}|Dobot_OpenCV.csproj|solutionrelative:viewmodel\\manager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A495D0F-1EA9-44F9-B70F-D3BFB045F5EB}|Dobot_OpenCV.csproj|D:\\Project\\4\uD300\uAC1C\uBC1C\uC644\uB8CC\uBCF4\uACE0\uC11C\\openCV\\viewmodel\\main.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A495D0F-1EA9-44F9-B70F-D3BFB045F5EB}|Dobot_OpenCV.csproj|solutionrelative:viewmodel\\main.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A495D0F-1EA9-44F9-B70F-D3BFB045F5EB}|Dobot_OpenCV.csproj|D:\\Project\\4\uD300\uAC1C\uBC1C\uC644\uB8CC\uBCF4\uACE0\uC11C\\openCV\\viewmodel\\main.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3A495D0F-1EA9-44F9-B70F-D3BFB045F5EB}|Dobot_OpenCV.csproj|solutionrelative:viewmodel\\main.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A495D0F-1EA9-44F9-B70F-D3BFB045F5EB}|Dobot_OpenCV.csproj|D:\\Project\\4\uD300\uAC1C\uBC1C\uC644\uB8CC\uBCF4\uACE0\uC11C\\openCV\\viewmodel\\first.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A495D0F-1EA9-44F9-B70F-D3BFB045F5EB}|Dobot_OpenCV.csproj|solutionrelative:viewmodel\\first.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A495D0F-1EA9-44F9-B70F-D3BFB045F5EB}|Dobot_OpenCV.csproj|D:\\Project\\4\uD300\uAC1C\uBC1C\uC644\uB8CC\uBCF4\uACE0\uC11C\\openCV\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A495D0F-1EA9-44F9-B70F-D3BFB045F5EB}|Dobot_OpenCV.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A495D0F-1EA9-44F9-B70F-D3BFB045F5EB}|Dobot_OpenCV.csproj|D:\\Project\\4\uD300\uAC1C\uBC1C\uC644\uB8CC\uBCF4\uACE0\uC11C\\openCV\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A495D0F-1EA9-44F9-B70F-D3BFB045F5EB}|Dobot_OpenCV.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A495D0F-1EA9-44F9-B70F-D3BFB045F5EB}|Dobot_OpenCV.csproj|D:\\Project\\4\uD300\uAC1C\uBC1C\uC644\uB8CC\uBCF4\uACE0\uC11C\\openCV\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3A495D0F-1EA9-44F9-B70F-D3BFB045F5EB}|Dobot_OpenCV.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A495D0F-1EA9-44F9-B70F-D3BFB045F5EB}|Dobot_OpenCV.csproj|D:\\Project\\4\uD300\uAC1C\uBC1C\uC644\uB8CC\uBCF4\uACE0\uC11C\\openCV\\viewmodel\\first.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3A495D0F-1EA9-44F9-B70F-D3BFB045F5EB}|Dobot_OpenCV.csproj|solutionrelative:viewmodel\\first.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A495D0F-1EA9-44F9-B70F-D3BFB045F5EB}|Dobot_OpenCV.csproj|D:\\Project\\4\uD300\uAC1C\uBC1C\uC644\uB8CC\uBCF4\uACE0\uC11C\\openCV\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3A495D0F-1EA9-44F9-B70F-D3BFB045F5EB}|Dobot_OpenCV.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1206,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Manager_Password.xaml.cs",
+              "DocumentMoniker": "D:\\Project\\4\uD300\uAC1C\uBC1C\uC644\uB8CC\uBCF4\uACE0\uC11C\\openCV\\ViewModel\\Manager_Password.xaml.cs",
+              "RelativeDocumentMoniker": "ViewModel\\Manager_Password.xaml.cs",
+              "ToolTip": "D:\\Project\\4\uD300\uAC1C\uBC1C\uC644\uB8CC\uBCF4\uACE0\uC11C\\openCV\\ViewModel\\Manager_Password.xaml.cs",
+              "RelativeToolTip": "ViewModel\\Manager_Password.xaml.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAqwCgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T20:16:41.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Manager.xaml.cs",
+              "DocumentMoniker": "D:\\Project\\4\uD300\uAC1C\uBC1C\uC644\uB8CC\uBCF4\uACE0\uC11C\\openCV\\ViewModel\\Manager.xaml.cs",
+              "RelativeDocumentMoniker": "ViewModel\\Manager.xaml.cs",
+              "ToolTip": "D:\\Project\\4\uD300\uAC1C\uBC1C\uC644\uB8CC\uBCF4\uACE0\uC11C\\openCV\\ViewModel\\Manager.xaml.cs",
+              "RelativeToolTip": "ViewModel\\Manager.xaml.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAuwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T20:16:30.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Connected.cs",
+              "DocumentMoniker": "D:\\Project\\4\uD300\uAC1C\uBC1C\uC644\uB8CC\uBCF4\uACE0\uC11C\\openCV\\Model\\Connected.cs",
+              "RelativeDocumentMoniker": "Model\\Connected.cs",
+              "ToolTip": "D:\\Project\\4\uD300\uAC1C\uBC1C\uC644\uB8CC\uBCF4\uACE0\uC11C\\openCV\\Model\\Connected.cs",
+              "RelativeToolTip": "Model\\Connected.cs",
+              "ViewState": "AQIAAM4AAAAAAAAAAAAkwBABAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T09:36:28.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Property.cs",
+              "DocumentMoniker": "D:\\Project\\4\uD300\uAC1C\uBC1C\uC644\uB8CC\uBCF4\uACE0\uC11C\\openCV\\Model\\Property.cs",
+              "RelativeDocumentMoniker": "Model\\Property.cs",
+              "ToolTip": "D:\\Project\\4\uD300\uAC1C\uBC1C\uC644\uB8CC\uBCF4\uACE0\uC11C\\openCV\\Model\\Property.cs",
+              "RelativeToolTip": "Model\\Property.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAuwFoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T09:36:29.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Main.xaml.cs",
+              "DocumentMoniker": "D:\\Project\\4\uD300\uAC1C\uBC1C\uC644\uB8CC\uBCF4\uACE0\uC11C\\openCV\\ViewModel\\Main.xaml.cs",
+              "RelativeDocumentMoniker": "ViewModel\\Main.xaml.cs",
+              "ToolTip": "D:\\Project\\4\uD300\uAC1C\uBC1C\uC644\uB8CC\uBCF4\uACE0\uC11C\\openCV\\ViewModel\\Main.xaml.cs",
+              "RelativeToolTip": "ViewModel\\Main.xaml.cs",
+              "ViewState": "AQIAAAoBAAAAAAAAAAAAACIBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:10:47.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Main.xaml",
+              "DocumentMoniker": "D:\\Project\\4\uD300\uAC1C\uBC1C\uC644\uB8CC\uBCF4\uACE0\uC11C\\openCV\\ViewModel\\Main.xaml",
+              "RelativeDocumentMoniker": "ViewModel\\Main.xaml",
+              "ToolTip": "D:\\Project\\4\uD300\uAC1C\uBC1C\uC644\uB8CC\uBCF4\uACE0\uC11C\\openCV\\ViewModel\\Main.xaml",
+              "RelativeToolTip": "ViewModel\\Main.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-12T03:42:28.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Manager_Password.xaml",
+              "DocumentMoniker": "D:\\Project\\4\uD300\uAC1C\uBC1C\uC644\uB8CC\uBCF4\uACE0\uC11C\\openCV\\ViewModel\\Manager_Password.xaml",
+              "RelativeDocumentMoniker": "ViewModel\\Manager_Password.xaml",
+              "ToolTip": "D:\\Project\\4\uD300\uAC1C\uBC1C\uC644\uB8CC\uBCF4\uACE0\uC11C\\openCV\\ViewModel\\Manager_Password.xaml",
+              "RelativeToolTip": "ViewModel\\Manager_Password.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-12T03:10:04.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "First.xaml.cs",
+              "DocumentMoniker": "D:\\Project\\4\uD300\uAC1C\uBC1C\uC644\uB8CC\uBCF4\uACE0\uC11C\\openCV\\ViewModel\\First.xaml.cs",
+              "RelativeDocumentMoniker": "ViewModel\\First.xaml.cs",
+              "ToolTip": "D:\\Project\\4\uD300\uAC1C\uBC1C\uC644\uB8CC\uBCF4\uACE0\uC11C\\openCV\\ViewModel\\First.xaml.cs",
+              "RelativeToolTip": "ViewModel\\First.xaml.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAmwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T05:14:28.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Project\\4\uD300\uAC1C\uBC1C\uC644\uB8CC\uBCF4\uACE0\uC11C\\openCV\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "D:\\Project\\4\uD300\uAC1C\uBC1C\uC644\uB8CC\uBCF4\uACE0\uC11C\\openCV\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T20:15:10.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Manager.xaml",
+              "DocumentMoniker": "D:\\Project\\4\uD300\uAC1C\uBC1C\uC644\uB8CC\uBCF4\uACE0\uC11C\\openCV\\ViewModel\\Manager.xaml",
+              "RelativeDocumentMoniker": "ViewModel\\Manager.xaml",
+              "ToolTip": "D:\\Project\\4\uD300\uAC1C\uBC1C\uC644\uB8CC\uBCF4\uACE0\uC11C\\openCV\\ViewModel\\Manager.xaml",
+              "RelativeToolTip": "ViewModel\\Manager.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-13T04:25:13.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Project\\4\uD300\uAC1C\uBC1C\uC644\uB8CC\uBCF4\uACE0\uC11C\\openCV\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\Project\\4\uD300\uAC1C\uBC1C\uC644\uB8CC\uBCF4\uACE0\uC11C\\openCV\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T04:28:55.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Project\\4\uD300\uAC1C\uBC1C\uC644\uB8CC\uBCF4\uACE0\uC11C\\openCV\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\Project\\4\uD300\uAC1C\uBC1C\uC644\uB8CC\uBCF4\uACE0\uC11C\\openCV\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-13T04:30:32.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "First.xaml",
+              "DocumentMoniker": "D:\\Project\\4\uD300\uAC1C\uBC1C\uC644\uB8CC\uBCF4\uACE0\uC11C\\openCV\\ViewModel\\First.xaml",
+              "RelativeDocumentMoniker": "ViewModel\\First.xaml",
+              "ToolTip": "D:\\Project\\4\uD300\uAC1C\uBC1C\uC644\uB8CC\uBCF4\uACE0\uC11C\\openCV\\ViewModel\\First.xaml",
+              "RelativeToolTip": "ViewModel\\First.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-12T05:14:25.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Project\\4\uD300\uAC1C\uBC1C\uC644\uB8CC\uBCF4\uACE0\uC11C\\openCV\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "D:\\Project\\4\uD300\uAC1C\uBC1C\uC644\uB8CC\uBCF4\uACE0\uC11C\\openCV\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-13T05:09:33.936Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+﻿<Page x:Class="Dobot_OpenCV.ViewModel.First"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Dobot_OpenCV.ViewModel"
+      mc:Ignorable="d" 
+      d:DesignHeight="700" d:DesignWidth="800"
+      Title="First" Height="700" Width="800">
+
+    <Grid Background="White" Height="700" Width="800" HorizontalAlignment="Center" VerticalAlignment="Top">
+
+
+        <Rectangle HorizontalAlignment="Center" Height="436" VerticalAlignment="Top" Width="800" Fill="#FF0F2C59" Margin="0,78,0,0"/>
+
+
+        <Button x:Name="btn_pay" Content="시  작" HorizontalAlignment="Center" Margin="0,540,0,30" Width="346" FontSize="60" BorderThickness="0,0,4,4" Background="#FFEADBC8" BorderBrush="#FFB5AB9F" Foreground="#FFE68369" Click="btn_pay_Click" FontFamily="Hancom MalangMalang Bold" FontWeight="Bold" HorizontalContentAlignment="Center">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="20"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Button x:Name="btn_manager" Content="관리자 메뉴" HorizontalAlignment="Left" Height="44" Margin="23,18,0,0" VerticalAlignment="Top" Width="179" Click="btn_manager_Click" Background="#FFF8F0E5" BorderBrush="#FFEADBC8" Foreground="#FF7F7870" BorderThickness="0,0,2,2" FontSize="20" FontFamily="Hancom MalangMalang Bold">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <TextBlock HorizontalAlignment="Left" Margin="91,226,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="78" Width="656" FontSize="65" FontFamily="Hancom MalangMalang Bold" FontWeight="Bold" Foreground="#FFE68369"><Run Text="현금 셀프 계산대"/><Run Text=" 입"/><Run Language="ko-kr" Text="니다."/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="145,357,0,0" TextWrapping="Wrap" Text="아래에 시작버튼을 눌러 계산을 진행해주세요." VerticalAlignment="Top" Height="42" Width="548" FontSize="30" FontFamily="Hancom MalangMalang Bold" FontWeight="Bold" Foreground="#FFDAC0A3"/>
+        <Rectangle HorizontalAlignment="Left" Height="1" Margin="120,405,0,0" VerticalAlignment="Top" Width="598" Fill="#FF838486"/>
+        <Rectangle HorizontalAlignment="Left" Height="0" Margin="120,0,0,0" VerticalAlignment="Center" Width="598" Fill="#FF838486"/>
+
+
+
+    </Grid>
+</Page>
